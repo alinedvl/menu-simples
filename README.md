@@ -3,7 +3,7 @@
 Menu simples responsivo.
 
 
-[<img src="src/image/menu.PNG" alt="imagem do menu">]
+[<img src="./src/image/menu.PNG" alt="imagem do menu">]
 
 
 ## Meu processo
